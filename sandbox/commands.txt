@@ -1,0 +1,8 @@
+mkdir dir1
+cd dir1
+touch file1.txt
+cd ..
+mkdir dir2
+cd dir2
+touch file2.txt
+

@@ -1,0 +1,4 @@
+cp -R sandbox playpen
+cd playpen
+mv dir1 folder1
+mv dir2 folder2
